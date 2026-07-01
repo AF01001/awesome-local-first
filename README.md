@@ -177,6 +177,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [AIWorkbench](https://aiworkbench.eu/) – Local-first AI assistant for independent professionals. Connects read-only to your own mailbox (ProtonMail via Bridge, IMAP, or Outlook), files mail into projects, and generates a storyboard, tasks, contacts, and reply drafts. Runs entirely on the workstation, binds to `127.0.0.1` by default, stores everything in local SQLite (no vector store), and logs every model call. Bring your own model — LM Studio / Ollama / vLLM / Anthropic / any OpenAI-compatible endpoint; no cloud by default.
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
